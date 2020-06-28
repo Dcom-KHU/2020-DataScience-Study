@@ -19,31 +19,48 @@ Repository for D.com Data Science Study
 
 ## Curriculum (On Edit)
 
-- Warming-up Course
+### Basic Course
+
+- 0. Warming-Up
 
   - Orientation (How to study Data Science)
   - Data Manipulation (Numpy, Pandas)
   - Data Visualization (Seaborn)
   - Data Collection (Request, BeutifulSoup)
 
-- Basic Analysis Course
+### Analyzing Basic Tabular Data
 
-  - Exploratory Data Analysis
-  - Feature Engineering
-  - Decision Tree
-  - Random Forest
-  - Linear Regression
-  - Model Validation
-  - Support Vector Machine\*
-  - Kaggle) Titanic: Machine Learning from Disaster
-  - Kaggle) Bike Sharing Demand
+- 1. Binary classification
 
-- Basic ML Course
-  - Regression
-  - Classification
-  - DNN
-  - CNN
-  - RNN
-  - TBA
+  - Titanic Machine Learning from Disaster (Practice 1)
+  - Porto Seguro's Safe Driver Prediction (Practice 2)
+  - Home Credit Default Risk (Practice 3)
+
+- 2. Multi-class classification
+
+  - Costa Rican Household Poverty Level Prediction (Practice 4)
+
+- 3. Regression
+  - New York City Taxi Duration (Practice 5)
+  - Zillow's Home Value Prediction (Practice 6)
+
+### Adavence Course
+
+- 1. Image Classification
+
+  - Statoil/C-CORE Iceberg Classifier Challenge (Practice 7)
+  - TensorFlow Speech Recognition Challenge (Practice 8)
+
+- 2. Natural Language Processing
+  - Spooky Author Identification (Practice 9)
+  - Mercari Price Suggestion Challenge (Practice 10)
+  - Toxic Comment Classification Challenge (Practice 11)
+- 3. Object segmentation
+  - 2018 Data Science Bowl (Practice 12)
+- 4. Anomaly Detection, Visualization
+  - Credit Card Fraud Detection (Practice 13)
+  - Kaggle Machine Learning & Data Science Survey 2017 (Practice 14)
 
 ## Reference
+
+1. https://goodday-lab.tistory.com/4
