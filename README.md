@@ -1,6 +1,6 @@
 # 2020-DataScience-Study
 
-Repository for D.com Data Science Study
+Repository for D.COM Data Science Study
 
 ## Goal
 
